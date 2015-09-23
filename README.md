@@ -12,3 +12,6 @@ One of the more well known CORS proxies, corsproxy.com, recently disappeared. Qu
 ## Where?
 
 [Here](http://crossorigin.me).
+
+## RTFM
+http://bit.ly/1G3DdpU
